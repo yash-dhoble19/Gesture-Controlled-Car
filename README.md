@@ -6,6 +6,10 @@ A Python script uses **MediaPipe Hands** to track gestures in real-time and send
 
 ---
 
+
+
+
+
 ## 📌 Features
 - ✋ **Gesture Recognition** using MediaPipe
 - 📡 **UDP Communication** between PC → ESP32
